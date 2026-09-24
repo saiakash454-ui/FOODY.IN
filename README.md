@@ -1,4 +1,4 @@
-# Responsive Food Ordering Interface
+#  Foody.in (Responsive Food Ordering Interface)
 
 A modern, fast, and fully responsive front-end web application designed to simulate a real-world online food ordering and delivery system. Built with a user-centric UI, this application allows users to seamlessly explore restaurants, filter food preferences, manage their cart, and simulate checkout.
 
